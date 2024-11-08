@@ -1,2 +1,2 @@
 # Äpocraft
-Äpocraft (aepocraft) is a minecraft datapack designed to make minecraft more *realistic* without adding items and resources.
+Äpocraft (aepocraft) is a Minecraft datapack designed to make Minecraft more *realistic* without adding items and resources.
