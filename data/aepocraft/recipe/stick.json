@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "/",
+        "/"
+    ],
+    "key": {
+        "/": "#aepocraft:stickable"
+    },
+    "result": {
+        "id": "stick"
+    },
+    "show_notification": true
+}
