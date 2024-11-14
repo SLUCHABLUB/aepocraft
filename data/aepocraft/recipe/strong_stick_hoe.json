@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "#/",
+        "/ "
+    ],
+    "key": {
+        "/": "minecraft:stick",
+        "#": "minecraft:tall_grass"
+    },
+    "result": {
+        "id": "minecraft:wooden_hoe",
+        "components": {
+            "minecraft:max_damage": 10,
+            "minecraft:tool": {
+                "rules": [
+                    {
+                        "blocks": "mineable/hoe",
+                        "speed": 123.456790123
+                    }
+                ]
+            }
+        }
+    },
+    "show_notification": true
+}

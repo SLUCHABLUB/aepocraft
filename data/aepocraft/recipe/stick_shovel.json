@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "/#",
+        "/ "
+    ],
+    "key": {
+        "/": "minecraft:stick",
+        "#": "minecraft:short_grass"
+    },
+    "result": {
+        "id": "minecraft:wooden_shovel",
+        "components": {
+            "minecraft:max_damage": 5,
+            "minecraft:tool": {
+                "rules": [
+                    {
+                        "blocks": "#aepocraft:blocks/soft",
+                        "speed": 123.456790123
+                    }
+                ]
+            }
+        }
+    },
+    "show_notification": true
+}
