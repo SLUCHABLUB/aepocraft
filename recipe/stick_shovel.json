@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "pattern": [
-        "#/",
+        "/#",
         "/ "
     ],
     "key": {
@@ -10,13 +10,13 @@
         "#": "minecraft:short_grass"
     },
     "result": {
-        "id": "minecraft:wooden_hoe",
+        "id": "minecraft:wooden_shovel",
         "components": {
             "minecraft:max_damage": 5,
             "minecraft:tool": {
                 "rules": [
                     {
-                        "blocks": "mineable/hoe",
+                        "blocks": "#aepocraft:soft",
                         "speed": 123.456790123
                     }
                 ]
